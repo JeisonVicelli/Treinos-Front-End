@@ -1,0 +1,21 @@
+attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+body {
+  max-width: 370px;
+  margin: 0 auto;
+  border: 1px solid black ;
+  border-radius: 10px;
+  
+}
+
+#mainHeader #mainHeader__title {
+  text-align: center;
+}
+#qrcodeContainer   {
+      display: flex;
+      text-align: center;
+      display:flex;
+      justify-content: center;
+      border-radius: 10px;
+
+}/*# sourceMappingURL=style.css.map */
